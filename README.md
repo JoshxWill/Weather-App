@@ -5,21 +5,25 @@ A weather app that provides real-time and accurate weather information for any l
 
 Features:
 
-Real-time weather information for any location in the world
-Hourly and daily forecasts
-Radar and satellite images
-Air quality index
-Push notifications for severe weather alerts
-Customizable UI
+- Real-time weather information for any location in the world
+- Hourly and daily forecasts
+- Radar and satellite images
+- Air quality index
+- Push notifications for severe weather alerts
+- Customizable UI
+
 Technologies used:
 
-HTML
-CSS
-JavaScript
-Visual Studio Code
-Open Weather API
+- HTML
+- CSS
+- JavaScript
+- Visual Studio Code
+- Open Weather API
 Example:
 
-A user enters the city name "Florissant, Missouri" into the app. The app uses the Open Weather API to fetch weather data for that location. The app then updates the UI to display the current temperature, humidity, wind speed, and other relevant weather information.
+A user enters the city name "Florissant" into the app. The app uses the Open Weather API to fetch weather data for that location. The app then updates the UI to display the current temperature, humidity, wind speed, and other relevant weather information.
 
 ![image](https://github.com/JoshxWill/Weather-App/assets/101890023/76fa429b-19e4-4bdf-96d2-0ec7a207a770)
+
+![image](https://github.com/JoshxWill/Weather-App/assets/101890023/4479dd9d-7769-4bfb-a541-2acc1e755577)
+
